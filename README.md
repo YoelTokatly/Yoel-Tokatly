@@ -31,30 +31,25 @@
 </div>
 
 
-# My Projects
 
-## 🚀 Featured Projects
+# 🚀 My Projects
 
-### [Project Name 1](https://github.com/yourusername/project1)
-**Tech Stack:** React, Node.js, MongoDB  
-Brief description of what this project does and why it's interesting. Highlight key features or technologies used.
+### [Vocabulary Trainer](https://github.com/YoelTokatly/vocabulatu_trainer)
+**Tech Stack:** Python, sqlite, streamlit
+Vocabulary Trainer is a simple tool designed to help users improve their vocabulary by practicing and learning new words interactively.
 
-- ⭐ Key feature 1
-- 🔧 Key feature 2
-- 📊 Key feature 3
+- 🔧 Add, edit, and delete vocabulary words.
+- ⭐ Practice mode to test your knowledge.
+- 📊 Track your progress over time
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project1)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoelTokatly/vocabulatu_trainer)
 
 ---
 
-### [Project Name 2](https://github.com/yourusername/project2)
-**Tech Stack:** Python, Django, PostgreSQL  
-Another project description focusing on the problem it solves and your approach.
-
-- 🎯 Achievement or metric
-- 🛠️ Notable implementation detail
-- 📈 Impact or result
-###
+### [BudgetFlow](https://github.com/YoelTokatly/BudgetFlow)
+**Tech Stack:** Python, sqlite, streamlit
+A cloud-based solution that streamlines the budget consolidation process for global organizations BudgetFlow allows subsidiary controllers to upload budget data through a user-friendly web interface that performs automatic validation checks and generates real-time P&L summaries. The system eliminates data inconsistencies by enforcing standardized templates and stores validated financial information securely in a cloud database for seamless centralized analysis. Built using Linux, Bash, Python, and AWS or AZURE services, BudgetFlow bridges the gap between traditional Microsoft-based financial workflows and modern cloud infrastructure to create a more efficient financial data pipeline
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoelTokatly/vocabulatu_trainer)
 
 ###
 

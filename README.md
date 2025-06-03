@@ -30,6 +30,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
 </div>
 
+
+# My Projects
+
+## 🚀 Featured Projects
+
+### [Project Name 1](https://github.com/yourusername/project1)
+**Tech Stack:** React, Node.js, MongoDB  
+Brief description of what this project does and why it's interesting. Highlight key features or technologies used.
+
+- ⭐ Key feature 1
+- 🔧 Key feature 2
+- 📊 Key feature 3
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project1)
+
+---
+
+### [Project Name 2](https://github.com/yourusername/project2)
+**Tech Stack:** Python, Django, PostgreSQL  
+Another project description focusing on the problem it solves and your approach.
+
+- 🎯 Achievement or metric
+- 🛠️ Notable implementation detail
+- 📈 Impact or result
 ###
 
 ###

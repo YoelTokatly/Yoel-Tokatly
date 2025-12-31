@@ -47,7 +47,7 @@ Vocabulary Trainer is a simple tool designed to help users improve their vocabul
 ---
 
 ### [BudgetFlow](https://github.com/YoelTokatly/BudgetFlow)
-**Tech Stack:** Python, sqlite, streamlit
+**Tech Stack:** Python, sql, DBT,  streamlit
 A cloud-based solution that streamlines the budget consolidation process for global organizations BudgetFlow allows subsidiary controllers to upload budget data through a user-friendly web interface that performs automatic validation checks and generates real-time P&L summaries. The system eliminates data inconsistencies by enforcing standardized templates and stores validated financial information securely in a cloud database for seamless centralized analysis. Built using Linux, Bash, Python, and AWS or AZURE services, BudgetFlow bridges the gap between traditional Microsoft-based financial workflows and modern cloud infrastructure to create a more efficient financial data pipeline
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoelTokatly/vocabulatu_trainer)
 
